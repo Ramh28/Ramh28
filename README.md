@@ -8,4 +8,4 @@ using Clean Architecture and TDD.
 
 **Currently exploring:** AI integrations (LLM APIs, RAG, agents), data engineering with Python.
 
-📫 rafael.munoz2802@gmail.com · [https://www.linkedin.com/in/rafamh28] (https://www.linkedin.com/in/rafamh28/)
+📫 rafael.munoz2802@gmail.com · [LinkedIn](https://www.linkedin.com/in/rafamh28/)
